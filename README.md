@@ -1,2 +1,2 @@
-# Recomendation-System-for-Music-Review-for-LastFM-website
+# Recomendation-System-for-Music-Review-website-LastFM
 Project in Python
